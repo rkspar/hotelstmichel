@@ -17,7 +17,7 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #E7D3A0;
+  background-color: #800000;
 }
 .bg-dark {
   color: white;
@@ -275,7 +275,7 @@ header {
   padding: 100px 0;
 }
 header .intro-content {
-  color: white;
+  color: #FFDEAD;
   text-align: center;
   position: relative;
 }
